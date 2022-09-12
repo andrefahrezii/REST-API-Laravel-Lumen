@@ -1,5 +1,5 @@
 {
-    "name": "tests/lumen",
+    "name": "MAFS/lumen",
     "description": "The Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
