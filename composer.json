@@ -1,8 +1,14 @@
 {
-    "name": "laravel/lumen",
+    "name": "tests/lumen",
     "description": "The Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre Fahrezi",
+            "email": "andre.fahrezi24@gmail.com"
+        }
+    ],
     "type": "project",
     "require": {
         "php": "^7.2.5",
@@ -32,7 +38,7 @@
         "sort-packages": true,
         "optimize-autoloader": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "scripts": {
         "post-root-package-install": [
